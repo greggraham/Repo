@@ -9,7 +9,7 @@ const int switchPin = 2;
 int state = 0;
 Button2 button;
 
-void tapped() {
+void tapped(Button2&) {
   if (state == 0) {
     state = 1;
   } else if (state == 1) {
