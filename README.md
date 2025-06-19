@@ -7,3 +7,7 @@ Welcome to the Cistercian Arduino class. Here are some links that you will need.
 [This article](https://projecthub.arduino.cc/tmekinyan/playing-popular-songs-with-arduino-and-a-buzzer-546f4a)
 describes how to make music with a buzzer. You will need [this library](https://github.com/hibit-dev/buzzer/tree/master/lib)
 and these [code files](https://github.com/hibit-dev/buzzer/tree/master/src).
+
+## Servos
+
+[Servo tutorial](https://www.makerguides.com/servo-arduino-tutorial/)
